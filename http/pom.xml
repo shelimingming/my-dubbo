@@ -11,6 +11,8 @@
     <modules>
         <module>server</module>
         <module>client</module>
+        <module>dubbo</module>
+      <module>../demoDubbo</module>
     </modules>
 
     <name>http</name>
